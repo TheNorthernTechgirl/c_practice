@@ -1,1 +1,1 @@
-# c_practice
+This is a personal practice repository
